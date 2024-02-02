@@ -298,6 +298,7 @@
   },
   "devDependencies": {
     "gulp-imagemin": "^7.1.0",
+    "gulp-uglify": "^3.0.2",
     "sass": "^1.69.7"
   },
   "description": ""
